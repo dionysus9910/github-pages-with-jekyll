@@ -1,7 +1,6 @@
-
 ---
-title: "First Blog Title"
-date: 2020-06-05
+title: "Your blog post title"
+date: YYYY-MM-DD
 ---
 
 Blah Blah Blah
