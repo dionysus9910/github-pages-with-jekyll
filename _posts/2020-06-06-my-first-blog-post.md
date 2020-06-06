@@ -1,6 +1,6 @@
 ---
 title: "Your blog post title"
-date: YYYY-MM-DD
+date: 2020-06-05
 ---
 
 Blah Blah Blah
